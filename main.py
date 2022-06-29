@@ -1,4 +1,4 @@
-# This is Day 1 of the 100 days of code Python Bootcamp
+# This is Day 1 of the 100 days of Code Python Bootcamp
 # The goal of this short program is to create a band name based on input provided by a user
 
 print("Welcome to the band name generator\n")
